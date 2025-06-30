@@ -1,3 +1,5 @@
+![Monthly Sales Chart](screenshots/monthly_sales_chart.png
+
 # 🛒 Retail Sales Data Analysis (Internship Task 5)
 
 ## 🎯 Objective
